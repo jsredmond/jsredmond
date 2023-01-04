@@ -4,3 +4,7 @@ You are standing in an open field west of a white house, with a boarded front do
 jsredmond/jsredmond is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+# My latest blog posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
