@@ -3,11 +3,6 @@ You are standing in an open field west of a white house, with a boarded front do
 
 No that's not right, hello my name is Jeremy and this is where I like to build things.
 
-<!---
-jsredmond/jsredmond is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-
 # My latest blog posts
 <!-- BLOG-POST-LIST:START -->
 - [Comparing Terraform Cloud to Terraform](https://jredmond.net/terraform/comparing-terraform-cloud-to-terraform/)
@@ -18,6 +13,6 @@ You can click the Preview link to take a look at your changes.
 <!-- BLOG-POST-LIST:END -->
 
 # Find me places
-[linkedin]: https://www.linkedin.com/in/jeremyredmondit/
-[blog]: https://jredmond.net/
-[mastodon]: @jredmond@infosec.exchange
+[linkedin] (https://www.linkedin.com/in/jeremyredmondit/)
+[blog] (https://jredmond.net/)
+[mastodon] (@jredmond@infosec.exchange)
