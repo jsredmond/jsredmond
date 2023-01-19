@@ -5,11 +5,11 @@ No that's not right, hello my name is Jeremy and this is where I like to build t
 
 # My latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Best Practices for Securing Amazon S3 Buckets](https://jredmond.net/security/best-practices-for-securing-amazon-s3-buckets/)
 - [Hello Boto – An Introduction to AWS SDK for Python &lpar;Boto3&rpar;](https://jredmond.net/security/introduction-to-aws-sdk-for-python-boto3/)
 - [Generating Policies with AWS IAM Access Analyzer](https://jredmond.net/security/generating-policies-with-aws-iam-access-analyzer/)
 - [Comparing Terraform Cloud to Terraform](https://jredmond.net/terraform/comparing-terraform-cloud-to-terraform/)
 - [Assigning a Simple Azure Policy](https://jredmond.net/security/creating-a-simple-azure-policy/)
-- [AWS Security Baseline with Terraform](https://jredmond.net/security/aws-security-baseline-with-terraform/)
 <!-- BLOG-POST-LIST:END -->
 
 # Find me places
