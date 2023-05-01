@@ -13,6 +13,6 @@ No that's not right, hello my name is Jeremy and this is where I like to build t
 <!-- BLOG-POST-LIST:END -->
 
 # Find me places
-* [LinkedIn](https://www.linkedin.com/in/jeremyredmondit/)
+* [LinkedIn](https://www.linkedin.com/in/jsredmond/)
 * [Blog](https://jredmond.net/)
 * [Mastodon](https://infosec.exchange/@jredmond)
