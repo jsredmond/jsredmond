@@ -14,5 +14,6 @@ No that's not right, hello my name is Jeremy and this is where I like to build t
 
 # Find me places
 * [LinkedIn](https://www.linkedin.com/in/jsredmond/)
-* [Blog](https://jredmond.net/)
+* [Blog](https://blog.heliobright.io/)
 * [Mastodon](https://infosec.exchange/@jredmond)
+* [Employer](https://heliobright.io/)
